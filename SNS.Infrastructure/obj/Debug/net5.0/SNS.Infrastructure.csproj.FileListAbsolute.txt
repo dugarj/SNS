@@ -9,7 +9,6 @@ C:\Users\Jay\source\repos\SNS.API\SNS.Infrastructure\bin\Debug\net5.0\ref\SNS.In
 C:\Users\Jay\source\repos\SNS.API\SNS.Infrastructure\bin\Debug\net5.0\SNS.Infrastructure.pdb
 C:\Users\Jay\source\repos\SNS.API\SNS.Infrastructure\bin\Debug\net5.0\SNS.Core.dll
 C:\Users\Jay\source\repos\SNS.API\SNS.Infrastructure\bin\Debug\net5.0\SNS.Core.pdb
-C:\Users\Jay\source\repos\SNS.API\SNS.Infrastructure\obj\Debug\net5.0\SNS.Infrastructure.csproj.CopyComplete
 C:\Users\Jay\source\repos\SNS.API\SNS.Infrastructure\obj\Debug\net5.0\SNS.Infrastructure.dll
 C:\Users\Jay\source\repos\SNS.API\SNS.Infrastructure\obj\Debug\net5.0\ref\SNS.Infrastructure.dll
 C:\Users\Jay\source\repos\SNS.API\SNS.Infrastructure\obj\Debug\net5.0\SNS.Infrastructure.pdb

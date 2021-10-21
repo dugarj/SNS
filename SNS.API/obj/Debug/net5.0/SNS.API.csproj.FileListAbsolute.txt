@@ -58,8 +58,9 @@ C:\Users\Jay\source\repos\SNS.API\SNS.API\obj\Debug\net5.0\staticwebassets\SNS.A
 C:\Users\Jay\source\repos\SNS.API\SNS.API\obj\Debug\net5.0\staticwebassets\SNS.API.StaticWebAssets.xml
 C:\Users\Jay\source\repos\SNS.API\SNS.API\obj\Debug\net5.0\scopedcss\bundle\SNS.API.styles.css
 C:\Users\Jay\source\repos\SNS.API\SNS.API\obj\Debug\net5.0\SNS.API.RazorTargetAssemblyInfo.cache
-C:\Users\Jay\source\repos\SNS.API\SNS.API\obj\Debug\net5.0\SNS.API.csproj.CopyComplete
 C:\Users\Jay\source\repos\SNS.API\SNS.API\obj\Debug\net5.0\SNS.API.dll
 C:\Users\Jay\source\repos\SNS.API\SNS.API\obj\Debug\net5.0\ref\SNS.API.dll
 C:\Users\Jay\source\repos\SNS.API\SNS.API\obj\Debug\net5.0\SNS.API.pdb
 C:\Users\Jay\source\repos\SNS.API\SNS.API\obj\Debug\net5.0\SNS.API.genruntimeconfig.cache
+C:\Users\Jay\source\repos\SNS.API\SNS.API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Jay\source\repos\SNS.API\SNS.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

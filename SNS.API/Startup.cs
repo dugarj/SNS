@@ -8,6 +8,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using SNS.API.Helpers;
 using SNS.Core.Interfaces;
 using SNS.Infrastructure.Data;
 using System;
@@ -30,6 +31,8 @@ namespace SNS.API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddScoped<IProductRepository, ProductRepository>();
+            services.AddScoped(typeof(IGenericRepository<>), (typeof(GenericRepository<>)));
+            services.AddAutoMapper(typeof(MappingProfiles));
             services.AddControllers();
             services.AddDbContext<StoreContext>(x => x.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.AddSwaggerGen(c =>
@@ -51,6 +54,8 @@ namespace SNS.API
             app.UseHttpsRedirection();
 
             app.UseRouting();
+
+            app.UseStaticFiles();
 
             app.UseAuthorization();
 
